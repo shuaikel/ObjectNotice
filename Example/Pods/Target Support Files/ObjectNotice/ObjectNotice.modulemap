@@ -1,0 +1,6 @@
+framework module ObjectNotice {
+  umbrella header "ObjectNotice-umbrella.h"
+
+  export *
+  module * { export * }
+}

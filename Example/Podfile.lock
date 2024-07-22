@@ -1,0 +1,16 @@
+PODS:
+  - ObjectNotice (0.1.0)
+
+DEPENDENCIES:
+  - ObjectNotice (from `../`)
+
+EXTERNAL SOURCES:
+  ObjectNotice:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ObjectNotice: 84fcdc912faa162d6bf66769774632c3cf601430
+
+PODFILE CHECKSUM: 565719c7ec8f53d5da304f805b4edab5c809903b
+
+COCOAPODS: 1.15.2
