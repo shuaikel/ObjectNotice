@@ -3,5 +3,5 @@ use_frameworks!
 platform :ios, '10.0'
 
 target 'ObjectNotice_Example' do
-  pod 'ObjectNotice', :path => '../'
+  pod 'ObjectNotification', :path => '../'
 end

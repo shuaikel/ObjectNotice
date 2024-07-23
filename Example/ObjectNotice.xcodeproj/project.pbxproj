@@ -216,11 +216,11 @@
 			);
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-ObjectNotice_Example/Pods-ObjectNotice_Example-frameworks.sh",
-				"${BUILT_PRODUCTS_DIR}/ObjectNotice/ObjectNotice.framework",
+				"${BUILT_PRODUCTS_DIR}/ObjectNotification/ObjectNotification.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/ObjectNotice.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/ObjectNotification.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;

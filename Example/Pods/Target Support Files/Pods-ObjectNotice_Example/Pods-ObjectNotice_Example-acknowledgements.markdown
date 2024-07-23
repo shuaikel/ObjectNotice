@@ -1,7 +1,7 @@
 # Acknowledgements
 This application makes use of the following third party libraries:
 
-## ObjectNotice
+## ObjectNotification
 
 Copyright (c) 2024 shuaike <718401263@qq.com>
 
